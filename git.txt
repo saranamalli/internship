@@ -1,0 +1,6 @@
+Given an integer array "a" of size "n". Find the longest subsequence of "a" which is odd-even.
+A subsequence is said to odd-even im the following cases.
+1. the first element of the subsequence is odd, second element is even, third element is odd and so on. for example {5,10,5,2,3}
+2. the first element of the subsequence is even, second is odd, third element is even and so on. for example{10,5,2,1,4,7}
+return tha maximum possible length of the odd-even subsequence.
+Note: an array "b" is a subsequence of an array "a" if "b" can be obtained from "a" by deletion of several possibly, zero of all elements.
